@@ -6,7 +6,7 @@
     class Program
     {
         //111111111
-        static void Main(string[] args)
+        static void Main(string[] args) //master
         {
         }
     }
